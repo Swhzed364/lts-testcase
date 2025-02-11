@@ -1,4 +1,3 @@
-# Используя последний бит
 def isEven(value):
 
     if (value & 1):
